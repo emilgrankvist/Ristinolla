@@ -1,2 +1,0 @@
-# Ristinolla
-C++ kurssin lopputyö
